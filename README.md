@@ -12,7 +12,6 @@ You can click the Preview link to take a look at your changes.
   <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Tech%20Guru;Super%20Fast%20Learner;3%2B%20Years%20of%20Coding%20Experience;Always%20Learning%20New%20Tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
-
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 
@@ -46,19 +45,14 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif"> 
                   
   <br>
-
   
-  
-  
-<table border="0" align="center">
+  <table border="0" align="center">
 <tr border="0">
 <td width="50%" align="center">
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=kenechukwunzelu&theme=cobalt&show_icons=true&count_private=true" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kenechukwunzelu&theme=dark&hide_border=true" />
-
-
   
 </td>
 
@@ -72,45 +66,21 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-
-
-
-
-
-
 <img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif">
 </p>  
-                                                                                    
-
-
-
-
+                                        
 <br>
-
-
-
-
-
-
 
 <br>
 <p align="centre">
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kenechukwunzelu&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  </p>
 
-
-
-
-
-
-
-
  <br> 
  
 <img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif">
  
  <br>
-
 
 <div align=center>
   <h3><b>📍 Profile Visitor Count</b></h3>
@@ -137,4 +107,4 @@ or <a href="mailto:nzelukenechukwu@gmail.com"><b>email</b></a> me
 
 ------
 Credit: [kenechukwunzelu](https://github.com/kenechukwunzelu)
-Last Edited on:  09/11/2022
+Last Edited on:  26/06/2023
